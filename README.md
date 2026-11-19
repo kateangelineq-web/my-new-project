@@ -1,12 +1,12 @@
 ShopSure: An AI-Powered Online Shopping Trust Checker
 
-Final project for the Building AI course
+Building AI course project
 
-Summary
+## Summary
 
 ShopSure is an AI-powered tool that helps online shoppers evaluate the trustworthiness of online sellers and product listings. It analyzes seller ratings, customer reviews, product information, and other available details to help consumers make more informed purchasing decisions.
 
-Background
+## Background
 
 Online shopping has become a convenient way for people to purchase products. However, not all online sellers are trustworthy. Some consumers experience problems such as misleading product descriptions, fake reviews, poor-quality products, and unreliable sellers.
 
@@ -21,7 +21,7 @@ The main problems it aims to address are:
 
 I chose this idea because online shopping is part of everyday life, and consumers deserve to feel more confident when making purchasing decisions. As a Marketing Management student, I am also interested in understanding how trust and credibility influence consumer behavior.
 
-How is it used?
+## How is it used?
 
 ShopSure can be used by online shoppers before making a purchase, especially when buying from unfamiliar sellers or platforms.
 
@@ -35,7 +35,7 @@ The process works as follows:
 
 The main users of this tool are online shoppers who want to make safer and more informed purchasing decisions.
 
-Data Sources and AI Methods
+## Data Sources and AI Methods
 
 ShopSure can use publicly available information and sample datasets about online shopping, customer reviews, seller ratings, and product listings.
 
@@ -54,7 +54,7 @@ The project may use the following AI methods:
 
 These methods can help the system identify patterns that may indicate whether a seller or product listing deserves further checking.
 
-Challenges
+## Challenges
 
 ShopSure has some limitations that should be considered.
 
@@ -66,7 +66,7 @@ Privacy is another important consideration. The system should only use informati
 
 Lastly, ShopSure should serve as a guide rather than the final basis for purchasing decisions. Consumers should still use their own judgment when shopping online.
 
-What Next?
+## What Next?
 
 In the future, ShopSure could be improved by supporting more online shopping platforms and analyzing additional information about sellers and products.
 
@@ -76,7 +76,7 @@ To develop this project further, I would need additional knowledge of Python pro
 
 My goal is to develop ShopSure into a useful tool that promotes consumer awareness, improves online shopping confidence, and encourages safer purchasing decisions.
 
-Acknowledgments
+## Acknowledgments
 
 * Building AI course by Reaktor Innovations and the University of Helsinki.
 * Inspiration from the growing use of AI in online shopping and consumer protection.
